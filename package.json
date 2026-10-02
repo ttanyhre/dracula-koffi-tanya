@@ -1,0 +1,31 @@
+{
+  "name": "examen-01-web3",
+  "version": "1.0.0",
+  "description": "URL du site en ligne (GitHub Pages) :",
+  "homepage": "https://github.com/tim-w3/web-3-dracula-ttanyhre#readme",
+  "bugs": {
+    "url": "https://github.com/tim-w3/web-3-dracula-ttanyhre/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tim-w3/web-3-dracula-ttanyhre.git"
+  },
+  "license": "ISC",
+  "author": "TIM",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fontsource/unifrakturcook": "^5.3.0",
+    "@tailwindcss/vite": "^4.3.3",
+    "animate.css": "^4.1.1",
+    "daisyui": "^5.7.47",
+    "lucide-static": "^1.50.0",
+    "tailwindcss": "^4.3.3",
+    "vite": "^8.3.2"
+  }
+}
